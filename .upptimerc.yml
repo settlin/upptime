@@ -11,17 +11,15 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: webapp.status.settlin.in
+  cname: check.settlin.in
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Settlin Webapp
+  logoUrl: https://settlin.in/images/logo/white-on-red/square.png
+  name: Settlin Status
   introTitle: "**Settlin** is the best way to buy or sell your property in Bangalore"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/settlin/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Webapp
+      href: https://settlin.in
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
