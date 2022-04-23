@@ -4,18 +4,20 @@
     "url": "https://settlin.in",
     "icon": "https://favicons.githubusercontent.com/settlin.in",
     "slug": "settlin-webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1726,
-    "timeDay": 1808,
-    "timeWeek": 1745,
-    "timeMonth": 1726,
-    "timeYear": 1726,
-    "dailyMinutesDown": {}
+    "time": 1690,
+    "timeDay": 1537,
+    "timeWeek": 1685,
+    "timeMonth": 1690,
+    "timeYear": 1690,
+    "dailyMinutesDown": {
+      "2022-04-23": 0
+    }
   },
   {
     "name": "Settlin CRM",
