@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/settlin.in",
     "slug": "settlin-webapp",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "98.54%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1689,
-    "timeDay": 1582,
-    "timeWeek": 1684,
-    "timeMonth": 1689,
-    "timeYear": 1689,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1683,
+    "timeDay": 1514,
+    "timeWeek": 1686,
+    "timeMonth": 1683,
+    "timeYear": 1683,
     "dailyMinutesDown": {
       "2022-04-23": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2082,
-    "timeDay": 2555,
-    "timeWeek": 1941,
-    "timeMonth": 2082,
-    "timeYear": 2082,
+    "time": 2053,
+    "timeDay": 1711,
+    "timeWeek": 1936,
+    "timeMonth": 2053,
+    "timeYear": 2053,
     "dailyMinutesDown": {}
   }
 ]
