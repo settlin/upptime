@@ -6,15 +6,15 @@
     "slug": "settlin-webapp",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 1709,
-    "timeDay": 2046,
-    "timeWeek": 1794,
-    "timeMonth": 1714,
-    "timeYear": 1709,
+    "time": 1706,
+    "timeDay": 1561,
+    "timeWeek": 1830,
+    "timeMonth": 1710,
+    "timeYear": 1706,
     "dailyMinutesDown": {
       "2022-05-16": 24,
       "2022-04-23": 21
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1669,
-    "timeDay": 1303,
-    "timeWeek": 1223,
-    "timeMonth": 1565,
-    "timeYear": 1669,
+    "time": 1656,
+    "timeDay": 1159,
+    "timeWeek": 1245,
+    "timeMonth": 1538,
+    "timeYear": 1656,
     "dailyMinutesDown": {}
   }
 ]
